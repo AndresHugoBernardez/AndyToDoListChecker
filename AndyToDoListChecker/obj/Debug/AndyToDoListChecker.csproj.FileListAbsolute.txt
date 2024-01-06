@@ -1,0 +1,33 @@
+E:\programas\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.exe.config
+E:\programas\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.exe
+E:\programas\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.pdb
+E:\programas\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.AssemblyReference.cache
+E:\programas\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.SuggestedBindingRedirects.cache
+E:\programas\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.Form1.resources
+E:\programas\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.Properties.Resources.resources
+E:\programas\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.GenerateResource.cache
+E:\programas\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.CoreCompileInputs.cache
+E:\programas\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.exe
+E:\programas\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.pdb
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.exe.config
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.exe
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.pdb
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.AssemblyReference.cache
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.SuggestedBindingRedirects.cache
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.Form1.resources
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.Properties.Resources.resources
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.GenerateResource.cache
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.CoreCompileInputs.cache
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.exe
+E:\programas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.pdb
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.exe.config
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.exe
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\bin\Debug\AndyToDoListChecker.pdb
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.AssemblyReference.cache
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.SuggestedBindingRedirects.cache
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.Form1.resources
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.Properties.Resources.resources
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.GenerateResource.cache
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.csproj.CoreCompileInputs.cache
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.exe
+D:\Paginas\AndyToDoListChecker Project\AndyToDoListChecker\obj\Debug\AndyToDoListChecker.pdb
