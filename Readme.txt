@@ -19,7 +19,7 @@ ____________________
 presents:
 
 
-Andy ToDo List Checker versión 
+Andy ToDo List Checker (Lite versión)
 ==================================
 
 
