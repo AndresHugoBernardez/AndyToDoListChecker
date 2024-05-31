@@ -1,0 +1,86 @@
+#-B-#
+#-1-#corregir cierre de escritorio#-P-#
+#-1-#primero guardar todo lo que sea none y crear una lista de las nuevas direcciones e ir cerrando. Luego cerrar el resto. #-P-#
+#-1-#Cerrar Menú Ventana cuando se selecciona opción de Menú Ventana#-P-#
+#-1-#corregir tabindex primera edición#-P-#
+#-1-#corrección de bugs y agregar evento de cerrado#-P-#
+#-1-#Corregir cierre de ventana#-P-#
+#-1-#Crear títulos CANCELED#-P-#
+#-1-#agregar botones izq der#-P-#
+#-B-#
+#-0-#que el item padre solo se ponga checked cuando todos los hijos lo hagan#-P-#
+#-0-#boton minimizar subitems (hijos) arbol#-P-#
+#-E-#
+#-1-#Corregir BUg boton guardar cambiar pestaña#-P-#
+#-1-#BUG. Cuando ponés guardar como a un archivo y lo guardas con otro nombre tiene que aparecer guardar como ventana ya que cambió. #-P-#
+#-1-#corregir tamaño de items para cuando se minimiza#-P-#
+#-1-#CORREGIR BUG: Cuando se elimina el primer ITEM, los hijos deben tener tabs=0#-P-#
+#-1-#CORREGIR BUG: No guarda archivos cuando cerrás.#-P-#
+#-1-#BUG: cuando cerras la ventana pero cancelas uno de los archivos la ventana queda abierta con solo el archivo que se canceló. Luego pide que guardes esa ventana cuando cierras, no debería ya que la ventana ya estaba cerrada, debería preguntar si desea guardar nueva ventana.#-P-#
+#-0-#Agregar TABULADOR#-P-#
+#-B-#
+#-1-#Quitar los botones y trasladarlos fuera del archivo.#-P-#
+#-1-#Crear barra de herramientas.#-P-#
+#-1-#Crear botón archivo y agrupar los botones allí#-P-#
+#-1-#BUG al agregar nuevo item cuando tiene hijos. #-P-#
+#-0-##-P-#
+#-0-##-P-#
+#-E-#
+#-0-#Eliminar#-P-#
+#-B-#
+#-0-#Al eliminar preguntar si desea eliminar los hijos del item.#-P-#
+#-E-#
+#-0-#Insertar#-P-#
+#-B-#
+#-0-#Capacidad de insertar items y sus hijos en una posición#-P-#
+#-1-#Modificación de Nuevo item#-P-#
+#-0-#Insertar desde otro archivo#-P-#
+#-0-#Insertar Plantillas#-P-#
+#-0-#Tablero de Control#-P-#
+#-B-#
+#-0-#Doble asignación a Item de un archivo#-P-#
+#-0-##-P-#
+#-E-#
+#-0-#Autosize#-P-#
+#-0-##-P-#
+#-0-##-P-#
+#-E-#
+#-1-#capacidad de arrastrar items con el mouse#-P-#
+#-B-#
+#-0-#BUG: Cuando arrastro fuera del TabPage sigue analizando la posicion del mouse#-P-#
+#-0-#BUG: No se pone el estado del tilde!!#-P-#
+#-E-#
+#-1-#capacidad de mover pestañas#-P-#
+#-B-#
+#-1-#Dentro del programa#-P-#
+#-0-#Fuera del programa#-P-#
+#-E-#
+#-0-#capacidad de copiar items y trasladarlo a otras listas. #-P-#
+#-B-#
+#-1-#copiar, cortar, pegar#-P-#
+#-0-#Capacidad de seleccionar items con shift y con cntrl#-P-#
+#-0-#copiar, cortar y pegar varios items. #-P-#
+#-0-#Usar el Portapapeles de Windows. #-P-#
+#-E-#
+#-0-#Edición deshacer.#-P-#
+#-B-#
+#-0-#Crear Registro/Cola de pasos#-P-#
+#-B-#
+#-0-#Asignar cada acción a un Paso específico#-P-#
+#-E-#
+#-0-#Integración con texto plano.#-P-#
+#-0-#Modo Notepad: sin separaciones de item como ahora.#-P-#
+#-0-#Modo texto, modo mixto, modo task#-P-#
+#-0-#Capacidad para insertar en distintos lenguajes de programación#-P-#
+#-E-#
+#-0-#Registrar Aplicación#-P-#
+#-0-#Versión Android#-P-#
+#-0-#Versión Visual Studio Code#-P-#
+#-B-#
+#-0-#Integración como Extensión#-P-#
+#-E-#
+#-0-#Página Oficial.#-P-#
+#-0-#Servidor para cuenta de usuario. No necesario: El usuario puede usar OneNote, DropBox, etc.#-P-#
+#-0-#Conquistar el mundo muajajajaa, es broma. (CANCELED) Ya existe "Notion"---> Proseguir como versión GNU hasta recibir una oferta o completar el programa lo que ocurra primero --> Competencia directa. Se abre el código. 
+Ventaja: Tenemos una forma universal de crear, leer y guardarTODO lists fácil de insertar en cualquier código. #-P-#
+#-E-#
