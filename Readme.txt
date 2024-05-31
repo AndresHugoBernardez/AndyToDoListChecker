@@ -37,7 +37,7 @@ v1.2 1 de febrero 2024
 Selector (rojo)
 Copiar, Cortar y Pegar
 
-v1.3 31 de febrero 2024
+v1.3 31 de mayo 2024
 Se corrigieron varios Bugs
 Se agrego arrastrar items y arrastrar pestañas
  
