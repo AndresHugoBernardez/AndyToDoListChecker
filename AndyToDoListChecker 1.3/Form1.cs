@@ -1130,6 +1130,7 @@ namespace AndyToDoListChecker
                             //MouseDragging = 0;
                             Cursor = Cursors.Default;
                             ventanaGuardada = false;
+                            VentanaEstaGuardada();
 
                         }
                         else if (MouseFin.X > CurrentRight && CurrentPosition < CurrentCount)
@@ -1189,6 +1190,7 @@ namespace AndyToDoListChecker
                             //MouseDragging = 0;
                             Cursor = Cursors.Default;
                             ventanaGuardada = false;
+                            VentanaEstaGuardada();
 
                         }
 
